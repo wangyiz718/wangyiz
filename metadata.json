@@ -1,0 +1,9 @@
+{
+  "name": "EcoVibe 360",
+  "description": "The ultimate multimodal renewable energy intelligence platform. Bridges scientific rigor with immersive visualization for investment analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
